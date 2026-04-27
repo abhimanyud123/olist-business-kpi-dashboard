@@ -36,6 +36,3 @@ The Power BI (.pbix) file is not uploaded due to size limitations. It can be sha
 
 ## Dataset
 Olist E-commerce Public Dataset (Brazil)
-
-## Author
-Abhimanyu Dabas
